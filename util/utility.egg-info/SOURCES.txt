@@ -1,0 +1,12 @@
+setup.py
+temporal/__init__.py
+temporal/days.py
+temporal/imperium.py
+temporal/imperium_routine.py
+temporal/rough.py
+temporal/tempCodeRunnerFile.py
+temporal/test.py
+utility.egg-info/PKG-INFO
+utility.egg-info/SOURCES.txt
+utility.egg-info/dependency_links.txt
+utility.egg-info/top_level.txt
