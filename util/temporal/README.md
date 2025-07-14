@@ -1,6 +1,6 @@
 # 🕰️ Imperium Time Format
 
-A Python utility for converting between standard UNIX epoch time and a custom format called **Imperium**—a six-digit compressed datetime system with built-in validation, leap year support, and some wild walrus operator magic.
+A Python utility for converting between standard UNIX epoch time and a custom format called **Imperium**—a six-digit compressed datetime system with built-in validation, leap year support, and some wild walrus operator magic (at least I tried 🧍‍♂️).
 
 Built for projects that need compact, readable, version-stable timestamps in logs or IDs.
 
