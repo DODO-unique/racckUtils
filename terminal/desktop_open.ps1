@@ -43,7 +43,9 @@ if ($choice -eq 6){
 	Start-Sleep -Seconds 120
 }
 
+Write-Host "Starting venv..."
 
+nomnomNecromancer\Scripts\Activate.ps1
 
 Write-Host "Starting Chrome..."
 
